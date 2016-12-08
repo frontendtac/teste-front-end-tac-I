@@ -19,4 +19,4 @@ Dê um fork nesse repositório e crie um pull request com a sua resposta.
 
 No README devem estar as instruções de como nós instalamos e rodamos sua aplicação.
 
-Boa sorte! ;)
+Boa sorte! ;))
